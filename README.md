@@ -1,5 +1,5 @@
 ## 💫 Welcome to Ray's Repo:
-I'm an undergraduate Computer Science student from the School of Electrical Engineering and Informatics at Bandung Institute of Technology. I'm currently in my 4th semester and interested in computer-related things such as web development, mobile application development, and machine learning.
+I’m an undergraduate Informatics Engineering student from the School of Electrical Engineering and Informatics at Bandung Institute of Technology. I’m in my 6th semester and interested in computer-related things such as software engineering, data analytics, and AI. I consistently seek opportunities to develop my soft and hard skills through internships, competitions, volunteering, and projects.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Raylouiss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
